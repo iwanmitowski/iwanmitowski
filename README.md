@@ -2,11 +2,14 @@
 
 ### Hi there, I'm Ivan Mitovski <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=iwanmitowski)
+[![Years Badge](https://badges.pufler.dev/years/iwanmitowski)](https://badges.pufler.dev)
+
 ## Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-mitovski)
 [![GitHub](https://img.shields.io/badge/-Github-000000?style=flat-square&logo=Github&logoColor=white)](https://github.com/iwanmitowski)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iwan.mitowski@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:iwan.mitowski@gmail.com)
 
 ## Junior developer - motivated to "hack" the .NET world 
 
