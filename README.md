@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently acquiring new programming skills, paradigms and following my dreams;
 - 🥅 2022 Goals: Contributing to Open Source projects, seeking new job opportunities;
-- 🏋️ Fun fact: I never skip leg days while working out;
+- 🏋️ Fun fact: I never skip leg day workouts;
 
 ## Connect with me:
 
