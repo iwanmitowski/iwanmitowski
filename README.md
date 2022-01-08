@@ -5,7 +5,7 @@
 ## Junior developer - motivated to "hack" the .NET world 
 
 - 🌱 I’m currently acquiring new programming skills, paradigms and following my dreams;
-- 🥅 2022 Goals: Contributing to Open Source projects, seeking new job opportunities;
+- 🥅 2022 Goals: Contributing to Open Source projects;
 - 🏋️ Fun fact: I never skip leg day workouts;
 
 ## Connect with me:
