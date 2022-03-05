@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Ivan Mitovski <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
 
-## Junior developer - motivated to "hack" the .NET world 
+## Junior developer - "hacking" the coding world 
 
 - 🌱 I’m currently acquiring new programming skills, paradigms and following my dreams;
 - 🥅 2022 Goals: Contributing to Open Source projects;
