@@ -1,6 +1,6 @@
 
 
-### Hi there, I'm Ivan Mitovski <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
+### Hi there, I'm Ivan Mitovski <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px">
 
 ## 🔥🐦 Junior developer - "hacking" the coding world 🐦🔥
 
