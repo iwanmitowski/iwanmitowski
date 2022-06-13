@@ -1,6 +1,6 @@
 
 
-### Hi there, I'm Ivan Mitovski
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:A10100,100:FE650D&height=200&section=header&text=Hi!%20I'm%20Ivan&fontSize=69&fontAlignY=35)
 
 ## 🔥🐦 Junior developer - "hacking" the coding world 🐦🔥
 
