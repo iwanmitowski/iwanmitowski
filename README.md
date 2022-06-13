@@ -1,8 +1,8 @@
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:A10100,100:FE650D&height=200&section=header&text=Hi!%20I'm%20Ivan&fontSize=69&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:A10100,100:FE650D&height=150&section=header&text=Hi!%20I'm%20Ivan&fontSize=48&fontAlignY=30)
 
-## 🔥🐦 Junior developer - "hacking" the coding world 🐦🔥
+🔥🐦 Junior developer - "hacking" the coding world 🐦🔥
 
 - 🌱 I’m currently acquiring new programming skills, paradigms and following my dreams;
 - 🥅 2022 Goals: Contributing to Open Source projects;
