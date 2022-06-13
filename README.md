@@ -3,13 +3,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=bababa&height=150&section=header&text=🐦Developer%20-%20"hacking"%20the%20coding%20world🔥&fontSize=35&fontAlignY=30)
 
 - 🌱 Visiting new places, following my dreams;
-- 🥅 2022 Goals: Better at React, digging deep in the domain knowledge;
+- 🥅 2022 Goals: Better at React, expanding knowledge in depth;
 - 🏋️ Fun fact: I never skip leg day workouts;
 
 ## Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-mitovski)
-[![GitHub](https://img.shields.io/badge/-Github-000000?style=flat-square&logo=Github&logoColor=white)](https://github.com/iwanmitowski)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:iwan.mitowski@gmail.com)
 
 
