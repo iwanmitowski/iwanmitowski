@@ -1,11 +1,9 @@
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:A10100,100:FE650D&height=150&section=header&text=Hi!%20I'm%20Ivan&fontSize=48&fontAlignY=30)
+![header](https://capsule-render.vercel.app/api?type=waving&color=bababa&height=150&section=header&text=🐦Developer%20-%20"hacking"%20the%20coding%20world🔥&fontSize=35&fontAlignY=30)
 
-🔥🐦 Junior developer - "hacking" the coding world 🐦🔥
-
-- 🌱 I’m currently acquiring new programming skills, paradigms and following my dreams;
-- 🥅 2022 Goals: Contributing to Open Source projects;
+- 🌱 Visiting new places, following my dreams;
+- 🥅 2022 Goals: Better at React, digging deep in the domain knowledge;
 - 🏋️ Fun fact: I never skip leg day workouts;
 
 ## Connect with me:
