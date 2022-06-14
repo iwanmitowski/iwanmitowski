@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=bababa&height=150&section=header&text=🐦Developer%20-%20"hacking"%20the%20coding%20world🔥&fontSize=35&fontAlignY=30)
 
-- 🌱 Visiting new places, following my dreams;
+- 🌱 I’m currently trying visiting new places and following my dreams;
 - 🥅 2022 Goals: Better at React, expanding knowledge in depth;
 - 🏋️ Fun fact: I never skip leg day workouts;
 
